@@ -7,7 +7,5 @@ setup(
     author='Prachurya Nath', 
     author_email='prachurya.nath@fau.de', 
     packages=['math_quiz'], 
-    install_requires=[ 
-        'random'
-    ], 
+    license='Apache License'
 )
